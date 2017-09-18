@@ -1,0 +1,21 @@
+
+
+html {
+    
+	margin: 10;
+	padding: 10;
+	}
+body { 
+    text-align: center;
+	font: 75% georgia;
+	line-height: 1.88889;
+	color black; 
+	background: #FFCAE1;
+	margin: 10; 
+	padding: 10;
+	}
+p { 
+    text-align: center;
+	margin-top: 10; 
+	
+	}
